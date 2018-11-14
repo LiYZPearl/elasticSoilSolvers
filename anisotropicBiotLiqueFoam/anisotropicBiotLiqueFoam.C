@@ -42,8 +42,8 @@ Description
     using the consolidation solver. Then copy the initEffSigmazz into the 0/ folder.
 
 Authors
-    Yuzhu Li (UiS)
-    Tian Tang (DTU)
+    Yuzhu Li, University of Stavanger. All rights reserved.
+    Tian Tang, Technical University of Denmark.  All rights reserved.
 \*---------------------------------------------------------------------------*/
 
 #include "fvCFD.H"
