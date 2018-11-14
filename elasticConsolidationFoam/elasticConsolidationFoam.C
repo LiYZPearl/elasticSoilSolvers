@@ -37,8 +37,8 @@ Description
     tractionDisplacement + timeVaryingMappedFixedValue in OpenFOAM.   
 
 Authors
-    Yuzhu Li (UiS)
-    Tian Tang (DTU)
+    Yuzhu Li, University of Stavanger. All rights reserved.
+    Tian Tang, Technical University of Denmark.  All rights reserved.
 \*---------------------------------------------------------------------------*/
 
 #include "fvCFD.H"
