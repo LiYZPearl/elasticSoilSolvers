@@ -1,0 +1,5 @@
+DEPENDENCIES = \
+anisoUpFoam.dep\
+boundaries/timeVaryingMappedTotalTraction/timeVaryingMappedTotalTractionFvPatchVectorField.dep\
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.dep\
+boundaries/externalPatchToPatchMapping/externalPatchToPatchMappingFvPatchFields.dep

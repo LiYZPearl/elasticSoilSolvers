@@ -1,0 +1,5 @@
+OBJECTS = \
+$(OBJECTS_DIR)/anisoUpFoam.o\
+$(OBJECTS_DIR)/timeVaryingMappedTotalTractionFvPatchVectorField.o\
+$(OBJECTS_DIR)/fixedTractionFvPatchVectorField.o\
+$(OBJECTS_DIR)/externalPatchToPatchMappingFvPatchFields.o

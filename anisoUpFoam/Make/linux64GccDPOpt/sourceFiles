@@ -1,0 +1,5 @@
+SOURCE = \
+anisoUpFoam.C\
+boundaries/timeVaryingMappedTotalTraction/timeVaryingMappedTotalTractionFvPatchVectorField.C\
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.C\
+boundaries/externalPatchToPatchMapping/externalPatchToPatchMappingFvPatchFields.C

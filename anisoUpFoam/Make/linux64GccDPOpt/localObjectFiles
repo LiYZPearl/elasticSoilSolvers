@@ -1,0 +1,5 @@
+LOCAL_OBJECTS = \
+anisoUpFoam.o\
+timeVaryingMappedTotalTractionFvPatchVectorField.o\
+fixedTractionFvPatchVectorField.o\
+externalPatchToPatchMappingFvPatchFields.o

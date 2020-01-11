@@ -1,0 +1,11 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+
+anisoUpFoam.C
+
+boundaries/timeVaryingMappedTotalTraction/timeVaryingMappedTotalTractionFvPatchVectorField.C
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.C
+boundaries/externalPatchToPatchMapping/externalPatchToPatchMappingFvPatchFields.C
+
+EXE = $(FOAM_USER_APPBIN)/anisoUpFoam
