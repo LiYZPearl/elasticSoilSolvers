@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+upFoam.o\
+timeVaryingMappedTotalTractionFvPatchVectorField.o\
+fixedTractionFvPatchVectorField.o

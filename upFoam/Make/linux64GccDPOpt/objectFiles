@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/upFoam.o\
+$(OBJECTS_DIR)/timeVaryingMappedTotalTractionFvPatchVectorField.o\
+$(OBJECTS_DIR)/fixedTractionFvPatchVectorField.o

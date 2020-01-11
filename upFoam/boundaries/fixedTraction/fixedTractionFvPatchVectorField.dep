@@ -1,0 +1,8 @@
+$(OBJECTS_DIR)/fixedTractionFvPatchVectorField.o: boundaries/fixedTraction/fixedTractionFvPatchVectorField.dep
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.dep: boundaries/fixedTraction/fixedTractionFvPatchVectorField.C
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.dep: boundaries/fixedTraction/fixedTractionFvPatchVectorField.H
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.dep: $(WM_PROJECT_DIR)/src/foam/lnInclude/addToRunTimeSelectionTable.H
+$(OBJECTS_DIR)/fixedTractionFvPatchVectorField.o: $(EXE_DEP)
+$(OBJECTS_DIR)/fixedTractionFvPatchVectorField.o:
+	@SOURCE_DIR=boundaries/fixedTraction
+	SOURCE=boundaries/fixedTraction/fixedTractionFvPatchVectorField.C ; $(Ctoo)

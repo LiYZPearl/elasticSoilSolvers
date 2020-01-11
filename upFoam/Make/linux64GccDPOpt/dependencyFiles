@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+upFoam.dep\
+boundaries/timeVaryingMappedTotalTraction/timeVaryingMappedTotalTractionFvPatchVectorField.dep\
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.dep

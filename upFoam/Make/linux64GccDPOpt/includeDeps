@@ -1,0 +1,3 @@
+include upFoam.dep
+include boundaries/timeVaryingMappedTotalTraction/timeVaryingMappedTotalTractionFvPatchVectorField.dep
+include boundaries/fixedTraction/fixedTractionFvPatchVectorField.dep

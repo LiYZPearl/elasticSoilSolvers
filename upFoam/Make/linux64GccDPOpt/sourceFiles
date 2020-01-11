@@ -1,0 +1,4 @@
+SOURCE = \
+upFoam.C\
+boundaries/timeVaryingMappedTotalTraction/timeVaryingMappedTotalTractionFvPatchVectorField.C\
+boundaries/fixedTraction/fixedTractionFvPatchVectorField.C
