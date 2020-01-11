@@ -9,5 +9,5 @@ For any usage of these models please refer to
   publisher={Elsevier}
 }
 
-The work enviroment for the toolbox is foam-extend 3.1.
+The work enviroment for the solvers is foam-extend 3.1.
 
