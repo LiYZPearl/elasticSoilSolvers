@@ -11,3 +11,4 @@ For any usage of these models please refer to
 
 The work enviroment for the solvers is foam-extend 3.1.
 
+For tutorials and case studies, please go to https://github.com/LiYZPearl/tutorials and https://github.com/LiYZPearl/wssi_case_studies.
